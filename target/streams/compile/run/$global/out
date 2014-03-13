@@ -1,0 +1,11 @@
+[info] Running Main 
+[debug] Starting sandboxed run...
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug]   Classpath:
+[debug] 	/Users/mordonez/repositories/akka-tests/akka-test-1/target/scala-2.10/classes
+[debug] 	/Users/mordonez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar
+[debug] 	/Users/mordonez/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.3.0.jar
+[debug] 	/Users/mordonez/.ivy2/cache/com.typesafe/config/bundles/config-1.2.0.jar
+[debug] Waiting for thread run-main to exit
+[debug] 	Thread run-main exited.
+[debug] Waiting for thread systemclient1-scheduler-1 to exit
